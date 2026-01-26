@@ -1,2 +1,1 @@
-# Inside-outline-updates-dev
-Update only, for dev
+# Inside Outline – Updates Repo
